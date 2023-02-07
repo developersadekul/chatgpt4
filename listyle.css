@@ -16,7 +16,7 @@ body{
 .rightsite {
     height: 100vh;
     width: 80%;
-    background-color: rgba(52,53,65);
+    background-color: rgb(226, 226, 226);
     display: flex;
     justify-content: center
 }
@@ -64,7 +64,7 @@ body{
 .fixt{
     position: absolute;
     bottom: 10px;
-    color: #929292;
+    color: #585858;
     text-align: center;
     margin: auto;
     display: flex;
@@ -75,7 +75,7 @@ form {
     width: 95%;
     max-width: 1280px;
     padding: 0px 10px 0px 10px;
-    background: #40414F;
+    background: #d6d6d6;
     height: 8vh;
     flex-direction: row;
     gap: 10px;
@@ -87,7 +87,7 @@ form {
   input {
     resize: none;
     width: 100%;
-    color: #d6d5d5;
+    color: #585858;
     font-size: 18px;
     padding: 10px !important;
     background: transparent;
@@ -101,7 +101,7 @@ form {
     border: 0;
     cursor: pointer;
     background: transparent;
-    color: #929292;
+    color: #585858;
   }
 .fixt span{
     font-size: 13px;
